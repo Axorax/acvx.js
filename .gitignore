@@ -1,0 +1,7 @@
+dist/
+TEST/
+BACKUP*
+node_modules/
+package-lock.json
+benchmarks.json
+time.js

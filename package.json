@@ -1,0 +1,27 @@
+{
+  "name": "acvx",
+  "version": "1.3.0",
+  "description": "Tiny library to deal with class names",
+  "keywords": [
+    "acvx",
+    "classname",
+    "clsx",
+    "cva"
+  ],
+  "homepage": "https://github.com/Axorax/acvx.js#readme",
+  "bugs": {
+    "url": "https://github.com/Axorax/acvx.js/issues"
+  },
+  "main": "acvx.js",
+  "exports": {
+    "import": "./acvx.js",
+    "require": "./acvx.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/acvx.js.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Axorax"
+}
